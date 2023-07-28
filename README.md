@@ -15,3 +15,5 @@ Upscaled HUD: https://nfsmods.xyz/mod/1096
 Binary(para instalar la interfaz): https://github.com/SpeedReflect/Binary/releases/tag/v2.8.3
 
 Modern Rockport: https://www.mediafire.com/file/fn7zlwu0vxu3jup/Modern+Rockport+1.0.rar/file
+
+Xbox Textures: https://mega.nz/file/MUwC3Q6L#37WecyLADv_FkkEzGaQcb7mfhlQwUruLE9ht_KWJl6w
