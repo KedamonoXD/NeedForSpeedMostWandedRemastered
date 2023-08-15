@@ -19,3 +19,5 @@ Modern Rockport: https://www.mediafire.com/file/fn7zlwu0vxu3jup/Modern+Rockport+
 Xbox Textures: https://mega.nz/file/MUwC3Q6L#37WecyLADv_FkkEzGaQcb7mfhlQwUruLE9ht_KWJl6w
 
 Simple lighting ReShade: https://nfsmods.xyz/mod/3804
+
+Ed: https://nfsmods.xyz/mod/874
