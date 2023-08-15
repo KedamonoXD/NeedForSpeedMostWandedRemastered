@@ -17,3 +17,5 @@ Binary(para instalar la interfaz): https://github.com/SpeedReflect/Binary/releas
 Modern Rockport: https://www.mediafire.com/file/fn7zlwu0vxu3jup/Modern+Rockport+1.0.rar/file
 
 Xbox Textures: https://mega.nz/file/MUwC3Q6L#37WecyLADv_FkkEzGaQcb7mfhlQwUruLE9ht_KWJl6w
+
+Simple lighting ReShade: https://nfsmods.xyz/mod/3804
